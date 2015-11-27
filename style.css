@@ -1,5 +1,6 @@
 body {
   background-image: url(content/stars.png);
+  text-align: center;
 }
 
 .header, p {
