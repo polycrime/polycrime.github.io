@@ -2,6 +2,10 @@ body {
   background-image: url(content/stars.png);
 }
 
-.header {
+.header, p {
   color: #fff;
+}
+
+.row {
+  padding: 20px 0 0 0;
 }
