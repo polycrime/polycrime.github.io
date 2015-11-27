@@ -1,23 +1,7 @@
-header, main {
-	text-align: center;
-	margin: 40px;
-}
-
 body {
   background-image: url(content/stars.png);
+}
+
+.header {
   color: #fff;
-}
-
-header h1 {
-	font-size: 4em;
-}
-
-.gallery img {
-	width: 300px;
-	height: 300px;
-	border: 1px solid #fff;
-}
-
-.gallery div {
-	padding: 20px 0 40px 0;
 }
